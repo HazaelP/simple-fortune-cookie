@@ -11,6 +11,6 @@ Luckily you know how to use Docker!
 For both front and backend:
 
 - Create a `Dockerfile` containing your application code and requirements
-- Build the Docker image
+- Build the Docker image and make sure templates and static folders are included
 - Run the application in Docker with a docker-compose file
 - Check Dockerfile and compose file into your repository.
