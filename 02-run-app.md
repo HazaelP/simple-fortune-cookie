@@ -7,7 +7,7 @@ Try that and see how that flies for you.
 
 ### Task
 
-- Install go on your cloud instance
+- Install go on your cloud instance <https://go.dev/doc/install>
 - Build with `go build`
 - Run both the frontend and backend with `go run ..`
 - Familiarize yourself with the application (frontend and backend, try to add a cookie and re-run the backend)
