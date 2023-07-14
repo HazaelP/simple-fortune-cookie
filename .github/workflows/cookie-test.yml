@@ -2,7 +2,7 @@ name: Run Cookie Tests
 on:
   push:
     branches:
-      - main
+      - HazaelP-patch-1
     paths-ignore:
       - .github/**
   workflow_dispatch:
